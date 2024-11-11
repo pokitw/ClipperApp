@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const downloadBtn = document.getElementById('downloadBtn');
     downloadBtn.addEventListener('click', (e) => {
         e.preventDefault();
-        const apkUrl = 'https://drive.google.com/file/d/19oIl8ff-DR0YQkJP4bfGPCxW6D1dQZLK/view?usp=drivesdk';
+        const apkUrl = 'https://drive.google.com/file/d/1A4ZPdLLGGH92PkZjhTXu8QAtpQ--Yu5v/view?usp=drivesdk';
 
         // Create a temporary anchor element
         const tempLink = document.createElement('a');
